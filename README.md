@@ -1,2 +1,2 @@
 # CTFs
-Scripts, notes and exploits of occasional CTF challenges
+Scripts, notes, challs and exploits of CTF challenges.
