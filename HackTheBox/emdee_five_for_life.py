@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# https://www.hackthebox.eu/home/challenges/Web?name=Emdee%20five%20for%20life
 
 import requests
 import hashlib
